@@ -14,7 +14,7 @@ body {
 .logo {
     width: 154px !important;
     height: 34px !important;
-    background: url('https://www.eucalyptus.com/sites/all/img/logos/eucalyptus-logo-reversed.png') no-repeat;
+    background: url('eucalyptus-logo-reversed.pn') no-repeat;
     margin-top: 8px;
     cursor: pointer;
 }
