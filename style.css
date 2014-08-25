@@ -14,7 +14,7 @@ body {
 .logo {
     width: 154px !important;
     height: 34px !important;
-    background: url('logo-rackspace.png') no-repeat;
+    background: url('https://www.eucalyptus.com/sites/all/img/logos/eucalyptus-logo-reversed.png') no-repeat;
     margin-top: 8px;
     cursor: pointer;
 }
@@ -35,11 +35,11 @@ body {
 #header,
 #footer-container {
     background: none repeat scroll 0 0 #333333 !important;
-    color: #999999;
+    color: #03405F;
 }
 
 #footer-container a {
-    color: #999999;
+    color: #03405F;
 }
 
 #breadcrumbBar {
@@ -89,7 +89,7 @@ body {
 }
 /* Style project table header links */
 #projectstatus th a {
-    color: #999999;
+    color: #03405F;
     font-weight: normal;
 }
 
